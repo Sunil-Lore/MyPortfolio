@@ -1,0 +1,25 @@
+@import "normalize","colors","containers","media_query","blocks","text","images","typo","pad","margin","flexbox","border","navbar","animation";
+
+
+/* *** Font family declaration and classes *** */
+
+@import url('https://fonts.googleapis.com/css2?family=ABeeZee:ital@0;1&display=swap');
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.7.2/font/bootstrap-icons.css");
+
+$myFonts0: 'ABeeZee', sans-serif;
+
+* {
+    box-sizing: border-box;
+  }
+
+/* Body Class */
+
+body{
+  margin:0;
+	font-family:$myFonts0;
+	font-size:16px;
+}
+
+a{
+	text-decoration:none;
+}

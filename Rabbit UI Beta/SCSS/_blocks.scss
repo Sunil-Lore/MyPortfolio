@@ -1,0 +1,242 @@
+/* ****** BASIC BUTTON ****** */
+
+.button-basic {
+	display:inline-block;
+	text-decoration:none;
+	text-align: center;
+	padding:10px 20px;
+	margin:10px;
+	border-radius:5px;
+	font-size:inherit;
+}
+
+.blockp0{ 
+	color:$color-p-4;   
+	background-color:$color-p-0;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-p-0;
+	background-color:$color-p-4;
+	border:2px solid $color-p-4;
+	}
+	a:hover, a:active{
+	color:$color-p-4;   
+	background-color:$color-p-0;
+	}
+}
+.blockp1{
+	color:$color-n-5;
+	background-color:$color-p-1;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-1;
+	background-color:$color-p-4;
+	border:2px solid $color-p-4;
+	}
+	a:hover, a:active{
+	color:$color-n-5;   
+	background-color:$color-p-1;
+	}
+	
+}
+.blockp2{
+	color:$color-n-6;
+	background-color:$color-p-2;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-p-2;
+	background-color:$color-n-6;
+	border:2px solid $color-n-6;
+	}
+	a:hover, a:active{
+	color:$color-n-6;   
+	background-color:$color-p-2;
+	}
+	
+}
+.blockp3{
+	color:$color-n-0;
+	background-color:$color-p-3;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-p-3;
+	background-color:$color-n-0;
+	border:2px solid $color-n-0;
+	}
+	a:hover, a:active{
+	color:$color-n-0;   
+	background-color:$color-p-3;
+	}
+	
+}
+.blockp4{
+	color:$color-n-1;
+	background-color:$color-p-4;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-p-4;
+	background-color:$color-n-1;
+	border:2px solid $color-n-1;
+	}
+	a:hover, a:active{
+	color:$color-n-1;   
+	background-color:$color-p-4;
+	}
+}
+.blockp5{
+	color:$color-p-3;
+	background-color:$color-n-0;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-0;
+	background-color:$color-p-3;
+	border:2px solid $color-p-3;
+	}
+	a:hover, a:active{
+	color:$color-p-3;   
+	background-color:$color-n-0;
+	}
+}
+.blocks0{
+	color:$color-n-5;
+	background-color:$color-s-0;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-5;
+	background-color:$color-s-0;
+	border:2px solid $color-s-0;
+	}
+	a:hover, a:active{
+	color:$color-n-5;   
+	background-color:$color-s-0;
+	}
+}
+
+.blocks1{
+	color:$color-n-5;
+	background-color:$color-s-1;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-5;
+	background-color:$color-s-0;
+	border:2px solid $color-s-0;
+	}
+	a:hover, a:active{
+	color:$color-n-5;   
+	background-color:$color-s-0;
+	}
+}
+
+.blockn0{
+	color:$color-n-5;
+	background-color:$color-n-0;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-0;
+	background-color:$color-n-5;
+	border:2px solid $color-n-5;
+	}
+	a:hover, a:active{
+	color:$color-n-5;   
+	background-color:$color-n-0;
+	}
+}
+.blockn1{
+	color:$color-n-5;
+	background-color:$color-n-1;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-1;
+	background-color:$color-n-5;
+	border:2px solid $color-n-5;
+	}
+	a:hover, a:active{
+	color:$color-n-5;   
+	background-color:$color-n-1;
+	}
+}
+.blockn2{
+	color:$color-n-6;
+	background-color:$color-n-2;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-2;
+	background-color:$color-n-6;
+	border:2px solid $color-n-6;
+	}
+	a:hover, a:active{
+	color:$color-n-6;   
+	background-color:$color-n-2;
+	}
+}
+.blockn3{
+	color:$color-n-0;
+	background-color:$color-n-3;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-3;
+	background-color:$color-n-0;
+	border:2px solid $color-n-0;
+	}
+	a:hover, a:active{
+	color:$color-n-0;   
+	background-color:$color-n-3;
+	}
+}
+.blockn4{
+	color:$color-n-0;
+	background-color:$color-n-4;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-4;
+	background-color:$color-n-0;
+	border:2px solid $color-n-0;
+	}
+	a:hover, a:active{
+	color:$color-n-0;   
+	background-color:$color-n-4;
+	}
+}
+.blockn5{
+	color:$color-n-0;
+	background-color:$color-n-5;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-5;
+	background-color:$color-n-0;
+	border:2px solid $color-n-0;
+	}
+	a:hover, a:active{
+	color:$color-n-0;   
+	background-color:$color-n-5;
+	}
+}
+.blockn6{
+	color:$color-n-0;
+	background-color:$color-n-6;
+	
+	a:link, a:visited{
+	@extend .button-basic;
+	color:$color-n-6;
+	background-color:$color-n-0;
+	border:2px solid $color-n-0;
+	}
+	a:hover, a:active{
+	color:$color-n-0;   
+	background-color:$color-n-6;
+	}
+}

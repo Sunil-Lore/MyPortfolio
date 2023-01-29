@@ -1,0 +1,59 @@
+/* ****** BORDER RADIUS CLASSES ****** */
+
+/* *** All sides border radius *** */
+
+.br-5{
+	border-radius:5px;
+}
+
+.br-10{
+	border-radius:10px;
+}
+
+/* *** Top sides border radius *** */
+
+.br-t-5{
+border-top-left-radius: 5px;
+border-top-right-radius: 5px;
+}
+
+.br-t-10{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+/* *** Right sides border *** */
+
+.br-r-5{
+border-top-right-radius: 5px;
+border-bottom-right-radius:5px;
+}
+
+.br-r-10{
+    border-top-right-radius: 10px;
+    border-bottom-right-radius:10px;
+}
+
+/* *** Bottom sides border *** */
+
+.br-b-5{
+border-bottom-left-radius: 5px;
+border-bottom-right-radius:5px;
+}
+
+.br-b-10{
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius:10px;
+}
+
+/* *** Left sides border *** */
+
+.br-l-5{
+border-top-left-radius: 5px;
+border-bottom-left-radius:5px;
+}
+
+.br-l-10{
+    border-top-left-radius: 10px;
+    border-bottom-left-radius:10px;
+}

@@ -1,0 +1,61 @@
+#i1 {
+    background-color: none;
+    position: relative;
+    animation-name: i1;
+    animation-duration: 10s;
+    animation-delay: 2s;
+  }
+  
+  @keyframes i1 {
+    0%   {background-color:none; right:0px; bottom:0px;}
+    25%  {background-color:none; right:300px; bottom:0px;}
+    50%  {background-color:none; right:0px; bottom:0px;}
+    75%  {background-color:none; right:-300px; bottom:0px;}
+    100% {background-color:none; right:0px; bottom:0px;}
+  }
+
+  #i2 {
+    background-color: none;
+    position: relative;
+    animation-name: i2;
+    animation-duration: 10s;
+    animation-delay: 2s;
+  }
+  
+  @keyframes i2 {
+    0%   {background-color:none; right:0px; bottom:0px;}
+    25%  {background-color:none; right:150px; bottom:0px;}
+    50%  {background-color:none; right:0px; bottom:0px;}
+    75%  {background-color:none; right:-150px; bottom:0px;}
+    100% {background-color:none; right:0px; bottom:0px;}
+  }
+  #i3 {
+    background-color: none;
+    position: relative;
+    animation-name: i3;
+    animation-duration: 10s;
+    animation-delay: 2s;
+  }
+  
+  @keyframes i3 {
+    0%   {background-color:none; left:0px; bottom:0px;}
+    25%  {background-color:none; left:150px; bottom:0px;}
+    50%  {background-color:none; left:0px; bottom:0px;}
+    75%  {background-color:none; left:-150px; bottom:0px;}
+    100% {background-color:none; left:0px; bottom:0px;}
+  }
+  #i4 {
+    background-color: none;
+    position: relative;
+    animation-name: i4;
+    animation-duration: 10s;
+    animation-delay: 2s;
+  }
+  
+  @keyframes i4 {
+    0%   {background-color:none; left:0px; bottom:0px;}
+    25%  {background-color:none; left:300px; bottom:0px;}
+    50%  {background-color:none; left:0px; bottom:0px;}
+    75%  {background-color:none; left:-300px; bottom:0px;}
+    100% {background-color:none; left:0px; bottom:0px;}
+  }

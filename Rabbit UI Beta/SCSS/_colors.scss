@@ -1,0 +1,123 @@
+/* *** Primary Colors *** */
+
+$color-p-0:#E4F1F6;
+$color-p-1:#67AFCB;
+$color-p-2:#347B98;
+$color-p-3:#1A3E4C;
+$color-p-4:#092834;
+
+/* *** Secondary Colors *** */
+
+$color-s-0:#FFFFDB;
+$color-s-1:#FFD700;
+
+
+/* *** Neutral Colors *** */
+
+$color-n-0:#FFFFFF;
+$color-n-1:#E6E6E6;
+$color-n-2:#B3B3B3;
+$color-n-3:#808080;
+$color-n-4:#4D4D4D;
+$color-n-5:#1A1A1A;
+$color-n-6:#000000;
+
+/* *** Classes for Primary Color Background. *** */
+
+.bg-p-0{
+    background-color: $color-p-0;
+}
+.bg-p-1{
+    background-color: $color-p-1;
+}
+.bg-p-2{
+    background-color: $color-p-2;
+}
+.bg-p-3{
+    background-color: $color-p-3;
+}
+.bg-p-4{
+    background-color: $color-p-4;
+}
+
+/* *** Classes for Secondary Color Background. *** */
+
+.bg-s-0{
+    background-color: $color-s-0;
+}
+
+.bg-s-1{
+    background-color: $color-s-1;
+}
+
+/* *** Classes for Neutral Color Background. *** */
+
+.bg-n-0{
+    background-color: $color-n-0;
+}
+.bg-n-1{
+    background-color: $color-n-1;
+}
+.bg-n-2{
+    background-color: $color-n-2;
+}
+.bg-n-3{
+    background-color: $color-n-3;
+}
+.bg-n-4{
+    background-color: $color-n-4;
+}
+.bg-n-5{
+    background-color: $color-n-5;
+}
+.bg-n-6{
+    background-color: $color-n-6;
+}
+
+/* Classes for Primary Text Colors. */
+
+.tc-p-0{
+    color:$color-p-0;
+}
+.tc-p-1{
+    color:$color-p-1;
+}
+.tc-p-2{
+    color:$color-p-2;
+}
+.tc-p-3{
+    color:$color-p-3;
+}
+.tc-p-4{
+    color:$color-p-4;
+}
+
+/* Classes for Secondary Text Colors. */
+
+.tc-s-0{
+    color:$color-s-0;
+}
+
+/* Classes for Neutral Text Colors. */
+
+.tc-n-0{
+    color:$color-n-0;
+}
+.tc-n-1{
+    color:$color-n-1;
+}
+.tc-n-2{
+    color:$color-n-2;
+}
+.tc-n-3{
+    color:$color-n-3;
+}
+.tc-n-4{
+    color:$color-n-4;
+}
+.tc-n-5{
+    color:$color-n-5;
+}
+.tc-n-6{
+    color:$color-n-6;
+}
