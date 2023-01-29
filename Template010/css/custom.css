@@ -1,0 +1,27 @@
+.sm-circle{
+    width:70px;
+    height:70px;
+    margin-right:70px;
+    border-radius:50%;
+    background-color:salmon;
+    float:right;
+}
+.bg-circle{
+    width:450px;
+    height:450px;
+    margin-top:50px;
+    margin-left:50px;
+    border-radius:50%;
+    background-color:silver;
+    z-index:-1;
+    position: absolute;
+}
+.block1{
+    position: relative;
+}
+@media only screen and (max-width: 768px) {
+    .bg-circle{
+        width:250px;
+        height:250px;
+    }
+}

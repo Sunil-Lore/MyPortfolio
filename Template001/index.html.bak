@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="scss/style.css" />
+  <title>Full-width Text</title>
+</head>
+<body>
+  <div class="container-fluid">
+    <div class="blockn1 p-5 lh-15">
+      <p class="fw-b">Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis, at.</p>
+      <h1>Jumbotron text</h1>
+      <p class="text-justify">Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis saepe esse amet aliquam consequuntur, officia pariatur repudiandae maxime quia quos, tempore magni enim aspernatur ullam cupiditate voluptatibus cumque id! Quasi dolore voluptatem repudiandae dicta aut, rem delectus deserunt, incidunt perferendis recusandae nisi ut dolor odit culpa nihil. Officia, accusantium, voluptates nihil debitis impedit eaque animi beatae sed nam consequuntur nesciunt hic nostrum adipisci delectus consectetur. Expedita eveniet doloribus odit rem vero perspiciatis. Tempore hic illum ea sequi officia itaque atque voluptate adipisci natus eligendi aliquid pariatur, deleniti neque repellat impedit ratione quae totam consequuntur assumenda optio. Vel ullam repudiandae tempora.</p>
+      <p class="fw-b text-justify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quis id impedit consectetur, ipsam est perferendis rerum expedita iusto, totam illo magnam labore adipisci? Possimus, et. Debitis, neque consequatur, harum accusamus eveniet nihil quibusdam soluta dolorum error illum commodi nisi obcaecati.</p>
+    </div>
+  </div>
+</body>
+</html>

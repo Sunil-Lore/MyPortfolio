@@ -1,0 +1,16 @@
+.spl{
+    border:10px solid tomato;
+}
+.circle{
+    width:120px;
+    height:120px;
+    border-radius:50%;
+    background-color: silver;
+}
+a:link,a:visited,a:hover,a:active{
+    color:tomato;
+    text-decoration: none;
+}
+img{
+    border-radius: 50%;
+}

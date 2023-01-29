@@ -1,0 +1,16 @@
+.back-purple{
+    background-color:darkslateblue;
+}
+.spl{
+    font-size:124px;
+    color:white;
+}
+.text-bottom{
+    align-self:flex-end;
+    color:white;
+}
+@media only screen and (max-width: 768px) {
+    .spl{
+        font-size:70px;
+    }
+}

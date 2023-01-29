@@ -1,0 +1,9 @@
+.block-purple{
+    background-color: mediumpurple;
+}
+.bottom-border{
+    border-bottom: 4px solid black;
+    width:50%;
+    margin:auto;
+    padding:20px;
+}

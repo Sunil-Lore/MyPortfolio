@@ -1,0 +1,14 @@
+.circle{
+    height:60px;
+    width:60px;
+    margin-right:60px;
+    border-radius:50%;
+    background-color: gray;
+    float:right;
+}
+h1.spl{
+    color:gray;
+}
+h1{
+    display:inline;
+}

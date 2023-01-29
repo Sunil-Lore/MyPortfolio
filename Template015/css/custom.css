@@ -1,0 +1,17 @@
+.star{
+    font-size:200px;
+    color:sienna;
+}
+@media only screen and (max-width: 575px) {
+    .star{
+        font-size:70px;
+    }
+}
+@media only screen and (max-width: 767px) {
+    .star{
+        font-size:120px;
+    }
+}
+.spl{
+    background-color: #e7d4ca;
+}
