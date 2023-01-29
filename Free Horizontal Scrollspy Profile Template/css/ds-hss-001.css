@@ -1,0 +1,47 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-family: "Roboto Condensed", sans-serif;
+  font-effect: emboss;
+}
+div.p {
+  font-size: 125%;
+}
+.column {
+  float: left;
+  width: 25%;
+  padding: 10px;
+}
+img.imghover {
+  border-radius: 10px;
+  width: 100%;
+}
+
+img.imghover:hover {
+  opacity: 0.5;
+}
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+@media screen and (max-width: 992px) {
+  .column {
+    width: 50%;
+  }
+}
+@media screen and (max-width: 576px) {
+  .column {
+    width: 100%;
+  }
+}
+.pretty {
+  color: #ce0e3d;
+}
+a {
+  color: white;
+}
+a:hover {
+  color: #ce0e3d;
+}
